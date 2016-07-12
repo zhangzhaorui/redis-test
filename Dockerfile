@@ -1,4 +1,4 @@
-FROM redis:alpine
+FROM registry.dataos.io/library/redis:alpine
 
 RUN mkdir /src
 WORKDIR /src
