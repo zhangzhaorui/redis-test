@@ -1,2 +1,1 @@
-# redis-test
-ad
+# redis-cluster# redis-test
